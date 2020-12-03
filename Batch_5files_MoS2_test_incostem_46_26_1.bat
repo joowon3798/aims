@@ -1,0 +1,15 @@
+incostem.exe<MoS2_test_incostem_46_26_1_0.param 
+incostem.exe<MoS2_test_1vacancy_incostem_46_26_1_0.param 
+incostem.exe<MoS2_test_2vacancy_incostem_46_26_1_0.param 
+incostem.exe<MoS2_test_incostem_46_26_1_1.param 
+incostem.exe<MoS2_test_1vacancy_incostem_46_26_1_1.param 
+incostem.exe<MoS2_test_2vacancy_incostem_46_26_1_1.param 
+incostem.exe<MoS2_test_incostem_46_26_1_2.param 
+incostem.exe<MoS2_test_1vacancy_incostem_46_26_1_2.param 
+incostem.exe<MoS2_test_2vacancy_incostem_46_26_1_2.param 
+incostem.exe<MoS2_test_incostem_46_26_1_3.param 
+incostem.exe<MoS2_test_1vacancy_incostem_46_26_1_3.param 
+incostem.exe<MoS2_test_2vacancy_incostem_46_26_1_3.param 
+incostem.exe<MoS2_test_incostem_46_26_1_4.param 
+incostem.exe<MoS2_test_1vacancy_incostem_46_26_1_4.param 
+incostem.exe<MoS2_test_2vacancy_incostem_46_26_1_4.param 
